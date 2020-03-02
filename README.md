@@ -1,6 +1,7 @@
 # MyDreamApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
+This project was also generated with [Spring Boot](https://github.com/spring-boot) version 2.2.2.
 
 ## Development server
 
